@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Football Score Keeper</string>
+    <string name="add_point">+1 Point</string>
+    <string name="add_foul">+1 Foul</string>
+    <string name="intial_count">0</string>
+    <string name="team_a">Team A</string>
+    <string name="team_b">Team B</string>
+    <string name="reset">Reset</string>
+</resources>
